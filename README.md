@@ -1,1 +1,1 @@
-Developed a fake news detection system using an offline BERT model and tokenizer. The project preprocesses and classifies news articles from the "Fake and Real News" dataset using PyTorch, Hugging Face Transformers, and NLP techniques like lemmatization and stopword removal. It includes visualizations with word clouds and evaluates performance with accuracy and classification metrics—all without requiring internet access.
+
